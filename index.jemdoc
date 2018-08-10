@@ -1,0 +1,35 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Yue Cao
+{{<span lang="cn" xml:lang="cn">}}曹越{{</span>}}
+~~~
+{}{img_left}{photos/bio.jpg}{alt text}{131}{160}{http://people.kth.se/~euhanna/}
+PhD,\n [https://engineering.purdue.edu/ECE Electrical and Computer Engineering], \n Purdue University \n
+West Lafayette, Indiana \n
+E-mail: /cao237/ \[@\] purdue \[DOT\] edu
+~~~
+
+== About me
+I received the B.S. degree in  [http://automation.sjtu.edu.cn/en/Default.aspx  Automation Engineering] from Shanghai Jiao Tong University, and the M.S. degree in [https://ece.osu.edu/ Electrical and Computer Engineering] from The Ohio State University, in 2015 and 2016, respectively. In August 2016, I started my PhD degree in ECE under the supervision of 
+ [https://engineering.purdue.edu/people/chun-sing.g.lee.1 Prof. Geroge Lee] at Purdue University.  
+
+== Research
+My research interests include 
+- Robotics  
+- Control Systems
+- Reinforcement Learning
+
+[research.html Find out more].
+
+== Teaching
+Purdue ECE 308 - Systems Simulation and Control Laboratory\n
+Fall 2016 \~ Spring 2018
+
+== Courses
+
+
+== Publication 
+. Wang, Haoan, Yue Cao, Bilin Aksun Güvenç, and Levent Güvenç. "MPC Based Automated Steering of a Low Speed Shuttle for Socially Acceptable Accident Avoidance." In ASME 2016 Dynamic Systems and Control Conference. American Society of Mechanical Engineers, 2016
+
+#\n
+#[cv.pdf A brief cv].
+
